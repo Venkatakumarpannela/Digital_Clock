@@ -1,4 +1,4 @@
-#DIGITAL_CLOCK
+# DIGITAL_CLOCK
 from tkinter import Label, Tk
 import time
 app_window = Tk()
